@@ -18,7 +18,7 @@ export interface CompanyLatest {
 
 export interface CompanyData {
   ticker: string;
-  slug?: string;
+  slug: string;
   name: string;
   sector: string;
   currency: string;
@@ -44,6 +44,14 @@ export interface ExchangeRates {
   baseCurrency: string;
   lastUpdated: string;
   rates: Record<string, number>;
+}
+
+/** Master Consolidated Dataset structure */
+export interface MasterDataset {
+  lastUpdated: string;
+  exchangeRates: ExchangeRates;
+  index: CompanyIndex[];
+  companies: CompanyData[];
 }
 
 /** Supported currency codes */

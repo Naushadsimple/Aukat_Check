@@ -13,7 +13,8 @@ interface CompanyLogoProps {
 export function CompanyLogo({ slug, ticker, name, className = 'w-full h-full object-contain' }: CompanyLogoProps) {
   const [level, setLevel] = useState(0);
 
-  // Retrieve official domain from domain-map.json
+  const cleanTicker = ticker.toLowerCase().replace(/[^a-z0-9]/g, '');
+
   const info = (domainMap as Record<string, { domain: string; simpleIcon: string }>)[slug] || {
     domain: `${slug}.com`,
     simpleIcon: slug.replace(/-/g, ''),
@@ -21,17 +22,14 @@ export function CompanyLogo({ slug, ticker, name, className = 'w-full h-full obj
 
   const domain = info.domain;
 
-  // Tiered full-color authentic brand logo sources:
-  // 1. Clearbit HD full-color brand logo API
-  // 2. Google HD 128px full-color domain favicon API
-  // 3. DuckDuckGo full-color domain icon API
-  // 4. Local SVG/PNG assets
+  // Local static SVG assets load INSTANTLY on first visit (0ms delay)
+  // External APIs are used as secondary fallbacks
   const sources = [
+    `/logos/${slug}.svg`,
+    `/logos/${cleanTicker}.svg`,
     `https://logo.clearbit.com/${domain}`,
     `https://www.google.com/s2/favicons?domain=${domain}&sz=128`,
     `https://icons.duckduckgo.com/ip3/${domain}.ico`,
-    `/logos/${slug}.svg`,
-    `/logos/${slug}.png`,
   ];
 
   if (level >= sources.length) {

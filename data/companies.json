@@ -1,0 +1,2484 @@
+{
+  "lastUpdated": "2026-07-21",
+  "exchangeRates": {
+    "baseCurrency": "USD",
+    "lastUpdated": "2026-07-17",
+    "rates": {
+      "USD": 1,
+      "INR": 84.5,
+      "EUR": 0.92,
+      "GBP": 0.79,
+      "JPY": 157.5,
+      "CAD": 1.37,
+      "AUD": 1.53,
+      "CHF": 0.88,
+      "CNY": 7.25,
+      "KRW": 1380,
+      "BRL": 5.15,
+      "MXN": 17.2,
+      "SGD": 1.34,
+      "HKD": 7.82,
+      "SEK": 10.5,
+      "NOK": 10.7,
+      "DKK": 6.85,
+      "NZD": 1.63,
+      "ZAR": 18.5,
+      "AED": 3.67,
+      "SAR": 3.75
+    }
+  },
+  "index": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "sector": "Technology",
+      "slug": "apple",
+      "currency": "USD",
+      "latestRevenue": 416161000000,
+      "latestNetIncome": 112010000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "sector": "Technology",
+      "slug": "microsoft",
+      "currency": "USD",
+      "latestRevenue": 281724000000,
+      "latestNetIncome": 101832000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "sector": "Technology",
+      "slug": "alphabet",
+      "currency": "USD",
+      "latestRevenue": 402836000000,
+      "latestNetIncome": 132170000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc.",
+      "sector": "Technology",
+      "slug": "amazon",
+      "currency": "USD",
+      "latestRevenue": 716924000000,
+      "latestNetIncome": 77670000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "sector": "Technology",
+      "slug": "nvidia",
+      "currency": "USD",
+      "latestRevenue": 215938000000,
+      "latestNetIncome": 120067000000,
+      "latestFiscalYear": 2026
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms Inc.",
+      "sector": "Technology",
+      "slug": "meta",
+      "currency": "USD",
+      "latestRevenue": 200966000000,
+      "latestNetIncome": 60458000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc.",
+      "sector": "Technology",
+      "slug": "tesla",
+      "currency": "USD",
+      "latestRevenue": 94827000000,
+      "latestNetIncome": 3794000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "sector": "Technology",
+      "slug": "broadcom",
+      "currency": "USD",
+      "latestRevenue": 63887000000,
+      "latestNetIncome": 23126000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corporation",
+      "sector": "Technology",
+      "slug": "oracle",
+      "currency": "USD",
+      "latestRevenue": 67357000000,
+      "latestNetIncome": 17087000000,
+      "latestFiscalYear": 2026
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc.",
+      "sector": "Technology",
+      "slug": "salesforce",
+      "currency": "USD",
+      "latestRevenue": 41525000000,
+      "latestNetIncome": 7457000000,
+      "latestFiscalYear": 2026
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc.",
+      "sector": "Technology",
+      "slug": "adobe",
+      "currency": "USD",
+      "latestRevenue": 23769000000,
+      "latestNetIncome": 7130000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems Inc.",
+      "sector": "Technology",
+      "slug": "cisco",
+      "currency": "USD",
+      "latestRevenue": 56654000000,
+      "latestNetIncome": 10180000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices Inc.",
+      "sector": "Technology",
+      "slug": "amd",
+      "currency": "USD",
+      "latestRevenue": 34639000000,
+      "latestNetIncome": 4335000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc.",
+      "sector": "Technology",
+      "slug": "netflix",
+      "currency": "USD",
+      "latestRevenue": 45183036000,
+      "latestNetIncome": 10981201000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "sector": "Technology",
+      "slug": "intel",
+      "currency": "USD",
+      "latestRevenue": 52853000000,
+      "latestNetIncome": -267000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "QCOM",
+      "name": "Qualcomm Inc.",
+      "sector": "Technology",
+      "slug": "qualcomm",
+      "currency": "USD",
+      "latestRevenue": 44284000000,
+      "latestNetIncome": 5541000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "TXN",
+      "name": "Texas Instruments Inc.",
+      "sector": "Technology",
+      "slug": "texas-instruments",
+      "currency": "USD",
+      "latestRevenue": 17682000000,
+      "latestNetIncome": 5001000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "BRK-B",
+      "name": "Berkshire Hathaway Inc.",
+      "sector": "Finance",
+      "slug": "berkshire-hathaway",
+      "currency": "USD",
+      "latestRevenue": 410522000000,
+      "latestNetIncome": 66968000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "sector": "Finance",
+      "slug": "jpmorgan",
+      "currency": "USD",
+      "latestRevenue": 181847000000,
+      "latestNetIncome": 57048000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc.",
+      "sector": "Finance",
+      "slug": "visa",
+      "currency": "USD",
+      "latestRevenue": 40000000000,
+      "latestNetIncome": 20058000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard Inc.",
+      "sector": "Finance",
+      "slug": "mastercard",
+      "currency": "USD",
+      "latestRevenue": 32791000000,
+      "latestNetIncome": 14968000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs Group Inc.",
+      "sector": "Finance",
+      "slug": "goldman-sachs",
+      "currency": "USD",
+      "latestRevenue": 58283000000,
+      "latestNetIncome": 17176000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group Inc.",
+      "sector": "Healthcare",
+      "slug": "unitedhealth",
+      "currency": "USD",
+      "latestRevenue": 447567000000,
+      "latestNetIncome": 12056000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "slug": "johnson-johnson",
+      "currency": "USD",
+      "latestRevenue": 94193000000,
+      "latestNetIncome": 26804000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Co. Inc.",
+      "sector": "Healthcare",
+      "slug": "merck",
+      "currency": "USD",
+      "latestRevenue": 65011000000,
+      "latestNetIncome": 18254000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc.",
+      "sector": "Healthcare",
+      "slug": "abbvie",
+      "currency": "USD",
+      "latestRevenue": 61160000000,
+      "latestNetIncome": 4226000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "TMO",
+      "name": "Thermo Fisher Scientific Inc.",
+      "sector": "Healthcare",
+      "slug": "thermo-fisher",
+      "currency": "USD",
+      "latestRevenue": 44557000000,
+      "latestNetIncome": 6704000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "sector": "Healthcare",
+      "slug": "abbott",
+      "currency": "USD",
+      "latestRevenue": 44328000000,
+      "latestNetIncome": 6524000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "DHR",
+      "name": "Danaher Corporation",
+      "sector": "Healthcare",
+      "slug": "danaher",
+      "currency": "USD",
+      "latestRevenue": 24568000000,
+      "latestNetIncome": 3614000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen Inc.",
+      "sector": "Healthcare",
+      "slug": "amgen",
+      "currency": "USD",
+      "latestRevenue": 36751000000,
+      "latestNetIncome": 7711000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "ISRG",
+      "name": "Intuitive Surgical Inc.",
+      "sector": "Healthcare",
+      "slug": "intuitive-surgical",
+      "currency": "USD",
+      "latestRevenue": 10064700000,
+      "latestNetIncome": 2856000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc.",
+      "sector": "Consumer",
+      "slug": "walmart",
+      "currency": "USD",
+      "latestRevenue": 713163000000,
+      "latestNetIncome": 21893000000,
+      "latestFiscalYear": 2026
+    },
+    {
+      "ticker": "PG",
+      "name": "Procter & Gamble Co.",
+      "sector": "Consumer",
+      "slug": "procter-gamble",
+      "currency": "USD",
+      "latestRevenue": 84284000000,
+      "latestNetIncome": 15974000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "HD",
+      "name": "The Home Depot Inc.",
+      "sector": "Consumer",
+      "slug": "home-depot",
+      "currency": "USD",
+      "latestRevenue": 164683000000,
+      "latestNetIncome": 14156000000,
+      "latestFiscalYear": 2026
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "sector": "Consumer",
+      "slug": "costco",
+      "currency": "USD",
+      "latestRevenue": 275235000000,
+      "latestNetIncome": 8099000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "KO",
+      "name": "The Coca-Cola Company",
+      "sector": "Consumer",
+      "slug": "coca-cola",
+      "currency": "USD",
+      "latestRevenue": 47941000000,
+      "latestNetIncome": 13107000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo Inc.",
+      "sector": "Consumer",
+      "slug": "pepsico",
+      "currency": "USD",
+      "latestRevenue": 93925000000,
+      "latestNetIncome": 8240000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "MCD",
+      "name": "McDonald's Corporation",
+      "sector": "Consumer",
+      "slug": "mcdonalds",
+      "currency": "USD",
+      "latestRevenue": 26885000000,
+      "latestNetIncome": 8563000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "LOW",
+      "name": "Lowe's Companies Inc.",
+      "sector": "Consumer",
+      "slug": "lowes",
+      "currency": "USD",
+      "latestRevenue": 86286000000,
+      "latestNetIncome": 6654000000,
+      "latestFiscalYear": 2026
+    },
+    {
+      "ticker": "DIS",
+      "name": "The Walt Disney Company",
+      "sector": "Consumer",
+      "slug": "disney",
+      "currency": "USD",
+      "latestRevenue": 94425000000,
+      "latestNetIncome": 12404000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "sector": "Energy",
+      "slug": "exxon-mobil",
+      "currency": "USD",
+      "latestRevenue": 323905000000,
+      "latestNetIncome": 28844000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "LIN",
+      "name": "Linde plc",
+      "sector": "Industrial",
+      "slug": "linde",
+      "currency": "USD",
+      "latestRevenue": 33986000000,
+      "latestNetIncome": 6898000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "HON",
+      "name": "Honeywell International Inc.",
+      "sector": "Industrial",
+      "slug": "honeywell",
+      "currency": "USD",
+      "latestRevenue": 37442000000,
+      "latestNetIncome": 4729000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "BA",
+      "name": "The Boeing Company",
+      "sector": "Industrial",
+      "slug": "boeing",
+      "currency": "USD",
+      "latestRevenue": 89463000000,
+      "latestNetIncome": 2235000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "sector": "Industrial",
+      "slug": "caterpillar",
+      "currency": "USD",
+      "latestRevenue": 67589000000,
+      "latestNetIncome": 8884000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "RTX",
+      "name": "RTX Corporation",
+      "sector": "Industrial",
+      "slug": "rtx",
+      "currency": "USD",
+      "latestRevenue": 88603000000,
+      "latestNetIncome": 6732000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "ACN",
+      "name": "Accenture plc",
+      "sector": "Industrial",
+      "slug": "accenture",
+      "currency": "USD",
+      "latestRevenue": 69672977000,
+      "latestNetIncome": 7678433000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "NEE",
+      "name": "NextEra Energy Inc.",
+      "sector": "Utilities",
+      "slug": "nextera-energy",
+      "currency": "USD",
+      "latestRevenue": 27412000000,
+      "latestNetIncome": 6835000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International Inc.",
+      "sector": "Consumer",
+      "slug": "philip-morris",
+      "currency": "USD",
+      "latestRevenue": 40648000000,
+      "latestNetIncome": 11348000000,
+      "latestFiscalYear": 2025
+    },
+    {
+      "ticker": "CMCSA",
+      "name": "Comcast Corporation",
+      "sector": "Telecom",
+      "slug": "comcast",
+      "currency": "USD",
+      "latestRevenue": 123707000000,
+      "latestNetIncome": 19998000000,
+      "latestFiscalYear": 2025
+    }
+  ],
+  "companies": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-09-30",
+          "revenue": 416161000000,
+          "netIncome": 112010000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-09-30",
+          "revenue": 391035000000,
+          "netIncome": 93736000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-09-30",
+          "revenue": 383285000000,
+          "netIncome": 96995000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-09-30",
+          "revenue": 394328000000,
+          "netIncome": 99803000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 13196.38,
+        "profitPerSecond": 3551.81
+      },
+      "slug": "apple"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-06-30",
+          "revenue": 281724000000,
+          "netIncome": 101832000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-06-30",
+          "revenue": 245122000000,
+          "netIncome": 88136000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-06-30",
+          "revenue": 211915000000,
+          "netIncome": 72361000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-06-30",
+          "revenue": 198270000000,
+          "netIncome": 72738000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 8933.41,
+        "profitPerSecond": 3229.07
+      },
+      "slug": "microsoft"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 402836000000,
+          "netIncome": 132170000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 350018000000,
+          "netIncome": 100118000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 307394000000,
+          "netIncome": 73795000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 282836000000,
+          "netIncome": 59972000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 12773.85,
+        "profitPerSecond": 4191.08
+      },
+      "slug": "alphabet"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 716924000000,
+          "netIncome": 77670000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 637959000000,
+          "netIncome": 59248000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 574785000000,
+          "netIncome": 30425000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 513983000000,
+          "netIncome": -2722000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 22733.51,
+        "profitPerSecond": 2462.9
+      },
+      "slug": "amazon"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2026,
+          "fiscalYearEnd": "2026-01-31",
+          "revenue": 215938000000,
+          "netIncome": 120067000000
+        },
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-01-31",
+          "revenue": 130497000000,
+          "netIncome": 72880000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-01-31",
+          "revenue": 60922000000,
+          "netIncome": 29760000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-01-31",
+          "revenue": 26974000000,
+          "netIncome": 4368000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2026,
+        "revenuePerSecond": 6847.35,
+        "profitPerSecond": 3807.3
+      },
+      "slug": "nvidia"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 200966000000,
+          "netIncome": 60458000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 164501000000,
+          "netIncome": 62360000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 134902000000,
+          "netIncome": 39098000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 116609000000,
+          "netIncome": 23200000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 6372.59,
+        "profitPerSecond": 1917.11
+      },
+      "slug": "meta"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 94827000000,
+          "netIncome": 3794000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 97690000000,
+          "netIncome": 7130000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 96773000000,
+          "netIncome": 14999000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 81462000000,
+          "netIncome": 12583000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 3006.94,
+        "profitPerSecond": 120.31
+      },
+      "slug": "tesla"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-10-31",
+          "revenue": 63887000000,
+          "netIncome": 23126000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-10-31",
+          "revenue": 51574000000,
+          "netIncome": 5895000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-10-31",
+          "revenue": 35819000000,
+          "netIncome": 14082000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-10-31",
+          "revenue": 33203000000,
+          "netIncome": 11495000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 2025.84,
+        "profitPerSecond": 733.32
+      },
+      "slug": "broadcom"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corporation",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2026,
+          "fiscalYearEnd": "2026-05-31",
+          "revenue": 67357000000,
+          "netIncome": 17087000000
+        },
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-05-31",
+          "revenue": 57399000000,
+          "netIncome": 12443000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-05-31",
+          "revenue": 52961000000,
+          "netIncome": 10467000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-05-31",
+          "revenue": 49954000000,
+          "netIncome": 8503000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2026,
+        "revenuePerSecond": 2135.88,
+        "profitPerSecond": 541.83
+      },
+      "slug": "oracle"
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2026,
+          "fiscalYearEnd": "2026-01-31",
+          "revenue": 41525000000,
+          "netIncome": 7457000000
+        },
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-01-31",
+          "revenue": 37895000000,
+          "netIncome": 6197000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-01-31",
+          "revenue": 34857000000,
+          "netIncome": 4136000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-01-31",
+          "revenue": 31352000000,
+          "netIncome": 208000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2026,
+        "revenuePerSecond": 1316.75,
+        "profitPerSecond": 236.46
+      },
+      "slug": "salesforce"
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-11-30",
+          "revenue": 23769000000,
+          "netIncome": 7130000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-11-30",
+          "revenue": 21505000000,
+          "netIncome": 5560000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-11-30",
+          "revenue": 19409000000,
+          "netIncome": 5428000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-11-30",
+          "revenue": 17606000000,
+          "netIncome": 4756000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 753.71,
+        "profitPerSecond": 226.09
+      },
+      "slug": "adobe"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-07-31",
+          "revenue": 56654000000,
+          "netIncome": 10180000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-07-31",
+          "revenue": 53803000000,
+          "netIncome": 10320000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-07-31",
+          "revenue": 56998000000,
+          "netIncome": 12613000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-07-31",
+          "revenue": 51557000000,
+          "netIncome": 11812000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1796.49,
+        "profitPerSecond": 322.81
+      },
+      "slug": "cisco"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 34639000000,
+          "netIncome": 4335000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 25785000000,
+          "netIncome": 1641000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 22680000000,
+          "netIncome": 854000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 23601000000,
+          "netIncome": 1320000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1098.4,
+        "profitPerSecond": 137.46
+      },
+      "slug": "amd"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 45183036000,
+          "netIncome": 10981201000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 39000966000,
+          "netIncome": 8711631000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 33723297000,
+          "netIncome": 5407990000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 31615550000,
+          "netIncome": 4491924000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1432.74,
+        "profitPerSecond": 348.21
+      },
+      "slug": "netflix"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 52853000000,
+          "netIncome": -267000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 53101000000,
+          "netIncome": -18756000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 54228000000,
+          "netIncome": 1689000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 63054000000,
+          "netIncome": 8014000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1675.96,
+        "profitPerSecond": -8.47
+      },
+      "slug": "intel"
+    },
+    {
+      "ticker": "QCOM",
+      "name": "Qualcomm Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-09-30",
+          "revenue": 44284000000,
+          "netIncome": 5541000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-09-30",
+          "revenue": 38962000000,
+          "netIncome": 10142000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-09-30",
+          "revenue": 35820000000,
+          "netIncome": 7232000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-09-30",
+          "revenue": 44200000000,
+          "netIncome": 12936000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1404.24,
+        "profitPerSecond": 175.7
+      },
+      "slug": "qualcomm"
+    },
+    {
+      "ticker": "TXN",
+      "name": "Texas Instruments Inc.",
+      "sector": "Technology",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 17682000000,
+          "netIncome": 5001000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 15641000000,
+          "netIncome": 4799000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 17519000000,
+          "netIncome": 6510000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 20028000000,
+          "netIncome": 8749000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 560.69,
+        "profitPerSecond": 158.58
+      },
+      "slug": "texas-instruments"
+    },
+    {
+      "ticker": "BRK-B",
+      "name": "Berkshire Hathaway Inc.",
+      "sector": "Finance",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 410522000000,
+          "netIncome": 66968000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 424232000000,
+          "netIncome": 88995000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 439337000000,
+          "netIncome": 96223000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 234121000000,
+          "netIncome": -22759000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 13017.57,
+        "profitPerSecond": 2123.54
+      },
+      "slug": "berkshire-hathaway"
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "sector": "Finance",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 181847000000,
+          "netIncome": 57048000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 169439000000,
+          "netIncome": 58471000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 154952000000,
+          "netIncome": 49552000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 127727000000,
+          "netIncome": 37676000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 5766.33,
+        "profitPerSecond": 1808.98
+      },
+      "slug": "jpmorgan"
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc.",
+      "sector": "Finance",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-09-30",
+          "revenue": 40000000000,
+          "netIncome": 20058000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-09-30",
+          "revenue": 35926000000,
+          "netIncome": 19743000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-09-30",
+          "revenue": 32653000000,
+          "netIncome": 17273000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-09-30",
+          "revenue": 29310000000,
+          "netIncome": 14957000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1268.39,
+        "profitPerSecond": 636.04
+      },
+      "slug": "visa"
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard Inc.",
+      "sector": "Finance",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 32791000000,
+          "netIncome": 14968000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 28167000000,
+          "netIncome": 12874000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 25098000000,
+          "netIncome": 11195000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 22237000000,
+          "netIncome": 9930000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1039.8,
+        "profitPerSecond": 474.63
+      },
+      "slug": "mastercard"
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs Group Inc.",
+      "sector": "Finance",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 58283000000,
+          "netIncome": 17176000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 53512000000,
+          "netIncome": 14276000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 46254000000,
+          "netIncome": 8516000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 47365000000,
+          "netIncome": 11261000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1848.14,
+        "profitPerSecond": 544.65
+      },
+      "slug": "goldman-sachs"
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group Inc.",
+      "sector": "Healthcare",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 447567000000,
+          "netIncome": 12056000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 400278000000,
+          "netIncome": 14405000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 371622000000,
+          "netIncome": 22381000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 324162000000,
+          "netIncome": 20120000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 14192.26,
+        "profitPerSecond": 382.29
+      },
+      "slug": "unitedhealth"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 94193000000,
+          "netIncome": 26804000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 88821000000,
+          "netIncome": 14066000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 85159000000,
+          "netIncome": 35153000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 79990000000,
+          "netIncome": 17941000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 2986.84,
+        "profitPerSecond": 849.95
+      },
+      "slug": "johnson-johnson"
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Co. Inc.",
+      "sector": "Healthcare",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 65011000000,
+          "netIncome": 18254000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 64168000000,
+          "netIncome": 17117000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 60115000000,
+          "netIncome": 365000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 59283000000,
+          "netIncome": 14519000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 2061.49,
+        "profitPerSecond": 578.83
+      },
+      "slug": "merck"
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc.",
+      "sector": "Healthcare",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 61160000000,
+          "netIncome": 4226000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 56334000000,
+          "netIncome": 4278000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 54318000000,
+          "netIncome": 4863000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 58054000000,
+          "netIncome": 11836000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1939.37,
+        "profitPerSecond": 134.01
+      },
+      "slug": "abbvie"
+    },
+    {
+      "ticker": "TMO",
+      "name": "Thermo Fisher Scientific Inc.",
+      "sector": "Healthcare",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 44557000000,
+          "netIncome": 6704000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 42879000000,
+          "netIncome": 6335000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 42857000000,
+          "netIncome": 5995000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 44915000000,
+          "netIncome": 6950000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1412.89,
+        "profitPerSecond": 212.58
+      },
+      "slug": "thermo-fisher"
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "sector": "Healthcare",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 44328000000,
+          "netIncome": 6524000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 41950000000,
+          "netIncome": 13402000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 40109000000,
+          "netIncome": 5723000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 43653000000,
+          "netIncome": 6933000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1405.63,
+        "profitPerSecond": 206.87
+      },
+      "slug": "abbott"
+    },
+    {
+      "ticker": "DHR",
+      "name": "Danaher Corporation",
+      "sector": "Healthcare",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 24568000000,
+          "netIncome": 3614000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 23875000000,
+          "netIncome": 3899000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 23890000000,
+          "netIncome": 4764000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 26643000000,
+          "netIncome": 7209000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 779.05,
+        "profitPerSecond": 114.6
+      },
+      "slug": "danaher"
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen Inc.",
+      "sector": "Healthcare",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 36751000000,
+          "netIncome": 7711000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 33424000000,
+          "netIncome": 4090000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 28190000000,
+          "netIncome": 6717000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 26323000000,
+          "netIncome": 6552000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1165.37,
+        "profitPerSecond": 244.51
+      },
+      "slug": "amgen"
+    },
+    {
+      "ticker": "ISRG",
+      "name": "Intuitive Surgical Inc.",
+      "sector": "Healthcare",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 10064700000,
+          "netIncome": 2856000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 8352100000,
+          "netIncome": 2322600000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 7124100000,
+          "netIncome": 1798000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 6222200000,
+          "netIncome": 1322300000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 319.15,
+        "profitPerSecond": 90.56
+      },
+      "slug": "intuitive-surgical"
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc.",
+      "sector": "Consumer",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2026,
+          "fiscalYearEnd": "2026-01-31",
+          "revenue": 713163000000,
+          "netIncome": 21893000000
+        },
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-01-31",
+          "revenue": 680985000000,
+          "netIncome": 19436000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-01-31",
+          "revenue": 648125000000,
+          "netIncome": 15511000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-01-31",
+          "revenue": 611289000000,
+          "netIncome": 11680000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2026,
+        "revenuePerSecond": 22614.25,
+        "profitPerSecond": 694.22
+      },
+      "slug": "walmart"
+    },
+    {
+      "ticker": "PG",
+      "name": "Procter & Gamble Co.",
+      "sector": "Consumer",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-06-30",
+          "revenue": 84284000000,
+          "netIncome": 15974000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-06-30",
+          "revenue": 84039000000,
+          "netIncome": 14879000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-06-30",
+          "revenue": 82006000000,
+          "netIncome": 14653000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-06-30",
+          "revenue": 80187000000,
+          "netIncome": 14742000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 2672.63,
+        "profitPerSecond": 506.53
+      },
+      "slug": "procter-gamble"
+    },
+    {
+      "ticker": "HD",
+      "name": "The Home Depot Inc.",
+      "sector": "Consumer",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2026,
+          "fiscalYearEnd": "2026-01-31",
+          "revenue": 164683000000,
+          "netIncome": 14156000000
+        },
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-01-31",
+          "revenue": 159514000000,
+          "netIncome": 14806000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-01-31",
+          "revenue": 152669000000,
+          "netIncome": 15143000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-01-31",
+          "revenue": 157403000000,
+          "netIncome": 17105000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2026,
+        "revenuePerSecond": 5222.06,
+        "profitPerSecond": 448.88
+      },
+      "slug": "home-depot"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "sector": "Consumer",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-08-31",
+          "revenue": 275235000000,
+          "netIncome": 8099000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-08-31",
+          "revenue": 254453000000,
+          "netIncome": 7367000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-08-31",
+          "revenue": 242290000000,
+          "netIncome": 6292000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-08-31",
+          "revenue": 226954000000,
+          "netIncome": 5844000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 8727.64,
+        "profitPerSecond": 256.82
+      },
+      "slug": "costco"
+    },
+    {
+      "ticker": "KO",
+      "name": "The Coca-Cola Company",
+      "sector": "Consumer",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 47941000000,
+          "netIncome": 13107000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 47061000000,
+          "netIncome": 10631000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 45754000000,
+          "netIncome": 10714000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 43004000000,
+          "netIncome": 9542000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1520.2,
+        "profitPerSecond": 415.62
+      },
+      "slug": "coca-cola"
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo Inc.",
+      "sector": "Consumer",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 93925000000,
+          "netIncome": 8240000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 91854000000,
+          "netIncome": 9578000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 91471000000,
+          "netIncome": 9074000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 86392000000,
+          "netIncome": 8910000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 2978.34,
+        "profitPerSecond": 261.29
+      },
+      "slug": "pepsico"
+    },
+    {
+      "ticker": "MCD",
+      "name": "McDonald's Corporation",
+      "sector": "Consumer",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 26885000000,
+          "netIncome": 8563000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 25920000000,
+          "netIncome": 8223000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 25495000000,
+          "netIncome": 8469000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 23182000000,
+          "netIncome": 6177000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 852.52,
+        "profitPerSecond": 271.53
+      },
+      "slug": "mcdonalds"
+    },
+    {
+      "ticker": "LOW",
+      "name": "Lowe's Companies Inc.",
+      "sector": "Consumer",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2026,
+          "fiscalYearEnd": "2026-01-31",
+          "revenue": 86286000000,
+          "netIncome": 6654000000
+        },
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-01-31",
+          "revenue": 83674000000,
+          "netIncome": 6957000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-01-31",
+          "revenue": 86377000000,
+          "netIncome": 7726000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-01-31",
+          "revenue": 97059000000,
+          "netIncome": 6437000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2026,
+        "revenuePerSecond": 2736.11,
+        "profitPerSecond": 211
+      },
+      "slug": "lowes"
+    },
+    {
+      "ticker": "DIS",
+      "name": "The Walt Disney Company",
+      "sector": "Consumer",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-09-30",
+          "revenue": 94425000000,
+          "netIncome": 12404000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-09-30",
+          "revenue": 91361000000,
+          "netIncome": 4972000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-09-30",
+          "revenue": 88898000000,
+          "netIncome": 2354000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-09-30",
+          "revenue": 82722000000,
+          "netIncome": 3145000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 2994.2,
+        "profitPerSecond": 393.33
+      },
+      "slug": "disney"
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "sector": "Energy",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 323905000000,
+          "netIncome": 28844000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 339247000000,
+          "netIncome": 33680000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 334697000000,
+          "netIncome": 36010000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 398675000000,
+          "netIncome": 55740000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 10270.96,
+        "profitPerSecond": 914.64
+      },
+      "slug": "exxon-mobil"
+    },
+    {
+      "ticker": "LIN",
+      "name": "Linde plc",
+      "sector": "Industrial",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 33986000000,
+          "netIncome": 6898000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 33005000000,
+          "netIncome": 6565000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 32854000000,
+          "netIncome": 6199000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 33364000000,
+          "netIncome": 4147000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1077.69,
+        "profitPerSecond": 218.73
+      },
+      "slug": "linde"
+    },
+    {
+      "ticker": "HON",
+      "name": "Honeywell International Inc.",
+      "sector": "Industrial",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 37442000000,
+          "netIncome": 4729000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 34717000000,
+          "netIncome": 5705000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 33009000000,
+          "netIncome": 5658000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 35466000000,
+          "netIncome": 4966000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1187.28,
+        "profitPerSecond": 149.96
+      },
+      "slug": "honeywell"
+    },
+    {
+      "ticker": "BA",
+      "name": "The Boeing Company",
+      "sector": "Industrial",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 89463000000,
+          "netIncome": 2235000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 66517000000,
+          "netIncome": -11817000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 77794000000,
+          "netIncome": -2222000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 66608000000,
+          "netIncome": -4935000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 2836.85,
+        "profitPerSecond": 70.87
+      },
+      "slug": "boeing"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "sector": "Industrial",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 67589000000,
+          "netIncome": 8884000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 64809000000,
+          "netIncome": 10792000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 67060000000,
+          "netIncome": 10335000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 59427000000,
+          "netIncome": 6705000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 2143.23,
+        "profitPerSecond": 281.71
+      },
+      "slug": "caterpillar"
+    },
+    {
+      "ticker": "RTX",
+      "name": "RTX Corporation",
+      "sector": "Industrial",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 88603000000,
+          "netIncome": 6732000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 80738000000,
+          "netIncome": 4774000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 68920000000,
+          "netIncome": 3195000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 67074000000,
+          "netIncome": 5197000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 2809.58,
+        "profitPerSecond": 213.47
+      },
+      "slug": "rtx"
+    },
+    {
+      "ticker": "ACN",
+      "name": "Accenture plc",
+      "sector": "Industrial",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-08-31",
+          "revenue": 69672977000,
+          "netIncome": 7678433000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-08-31",
+          "revenue": 64896464000,
+          "netIncome": 7264787000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-08-31",
+          "revenue": 64111745000,
+          "netIncome": 6871557000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-08-31",
+          "revenue": 61594305000,
+          "netIncome": 6877169000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 2209.32,
+        "profitPerSecond": 243.48
+      },
+      "slug": "accenture"
+    },
+    {
+      "ticker": "NEE",
+      "name": "NextEra Energy Inc.",
+      "sector": "Utilities",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 27412000000,
+          "netIncome": 6835000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 24753000000,
+          "netIncome": 6946000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 28114000000,
+          "netIncome": 7310000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 20956000000,
+          "netIncome": 4147000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 869.23,
+        "profitPerSecond": 216.74
+      },
+      "slug": "nextera-energy"
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International Inc.",
+      "sector": "Consumer",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 40648000000,
+          "netIncome": 11348000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 37878000000,
+          "netIncome": 7057000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 35174000000,
+          "netIncome": 7813000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 31762000000,
+          "netIncome": 9048000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 1288.94,
+        "profitPerSecond": 359.84
+      },
+      "slug": "philip-morris"
+    },
+    {
+      "ticker": "CMCSA",
+      "name": "Comcast Corporation",
+      "sector": "Telecom",
+      "currency": "USD",
+      "lastUpdated": "2026-07-17",
+      "yearlyData": [
+        {
+          "fiscalYear": 2025,
+          "fiscalYearEnd": "2025-12-31",
+          "revenue": 123707000000,
+          "netIncome": 19998000000
+        },
+        {
+          "fiscalYear": 2024,
+          "fiscalYearEnd": "2024-12-31",
+          "revenue": 123731000000,
+          "netIncome": 16192000000
+        },
+        {
+          "fiscalYear": 2023,
+          "fiscalYearEnd": "2023-12-31",
+          "revenue": 121572000000,
+          "netIncome": 15388000000
+        },
+        {
+          "fiscalYear": 2022,
+          "fiscalYearEnd": "2022-12-31",
+          "revenue": 121427000000,
+          "netIncome": 5370000000
+        }
+      ],
+      "latest": {
+        "fiscalYear": 2025,
+        "revenuePerSecond": 3922.72,
+        "profitPerSecond": 634.13
+      },
+      "slug": "comcast"
+    }
+  ]
+}
