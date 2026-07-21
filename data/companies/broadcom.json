@@ -1,0 +1,38 @@
+{
+  "ticker": "AVGO",
+  "name": "Broadcom Inc.",
+  "sector": "Technology",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-10-31",
+      "revenue": 63887000000,
+      "netIncome": 23126000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-10-31",
+      "revenue": 51574000000,
+      "netIncome": 5895000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-10-31",
+      "revenue": 35819000000,
+      "netIncome": 14082000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-10-31",
+      "revenue": 33203000000,
+      "netIncome": 11495000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 2025.84,
+    "profitPerSecond": 733.32
+  }
+}

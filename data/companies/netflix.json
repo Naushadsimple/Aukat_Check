@@ -1,0 +1,38 @@
+{
+  "ticker": "NFLX",
+  "name": "Netflix Inc.",
+  "sector": "Technology",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 45183036000,
+      "netIncome": 10981201000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 39000966000,
+      "netIncome": 8711631000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 33723297000,
+      "netIncome": 5407990000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 31615550000,
+      "netIncome": 4491924000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 1432.74,
+    "profitPerSecond": 348.21
+  }
+}

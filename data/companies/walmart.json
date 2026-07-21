@@ -1,0 +1,38 @@
+{
+  "ticker": "WMT",
+  "name": "Walmart Inc.",
+  "sector": "Consumer",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2026,
+      "fiscalYearEnd": "2026-01-31",
+      "revenue": 713163000000,
+      "netIncome": 21893000000
+    },
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-01-31",
+      "revenue": 680985000000,
+      "netIncome": 19436000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-01-31",
+      "revenue": 648125000000,
+      "netIncome": 15511000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-01-31",
+      "revenue": 611289000000,
+      "netIncome": 11680000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2026,
+    "revenuePerSecond": 22614.25,
+    "profitPerSecond": 694.22
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ticker": "MCD",
+  "name": "McDonald's Corporation",
+  "sector": "Consumer",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 26885000000,
+      "netIncome": 8563000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 25920000000,
+      "netIncome": 8223000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 25495000000,
+      "netIncome": 8469000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 23182000000,
+      "netIncome": 6177000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 852.52,
+    "profitPerSecond": 271.53
+  }
+}

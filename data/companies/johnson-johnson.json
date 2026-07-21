@@ -1,0 +1,38 @@
+{
+  "ticker": "JNJ",
+  "name": "Johnson & Johnson",
+  "sector": "Healthcare",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 94193000000,
+      "netIncome": 26804000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 88821000000,
+      "netIncome": 14066000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 85159000000,
+      "netIncome": 35153000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 79990000000,
+      "netIncome": 17941000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 2986.84,
+    "profitPerSecond": 849.95
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ticker": "AMZN",
+  "name": "Amazon.com Inc.",
+  "sector": "Technology",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 716924000000,
+      "netIncome": 77670000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 637959000000,
+      "netIncome": 59248000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 574785000000,
+      "netIncome": 30425000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 513983000000,
+      "netIncome": -2722000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 22733.51,
+    "profitPerSecond": 2462.9
+  }
+}

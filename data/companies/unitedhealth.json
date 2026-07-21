@@ -1,0 +1,38 @@
+{
+  "ticker": "UNH",
+  "name": "UnitedHealth Group Inc.",
+  "sector": "Healthcare",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 447567000000,
+      "netIncome": 12056000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 400278000000,
+      "netIncome": 14405000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 371622000000,
+      "netIncome": 22381000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 324162000000,
+      "netIncome": 20120000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 14192.26,
+    "profitPerSecond": 382.29
+  }
+}

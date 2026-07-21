@@ -1,0 +1,38 @@
+{
+  "ticker": "AMGN",
+  "name": "Amgen Inc.",
+  "sector": "Healthcare",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 36751000000,
+      "netIncome": 7711000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 33424000000,
+      "netIncome": 4090000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 28190000000,
+      "netIncome": 6717000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 26323000000,
+      "netIncome": 6552000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 1165.37,
+    "profitPerSecond": 244.51
+  }
+}

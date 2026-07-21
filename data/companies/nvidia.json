@@ -1,0 +1,38 @@
+{
+  "ticker": "NVDA",
+  "name": "NVIDIA Corporation",
+  "sector": "Technology",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2026,
+      "fiscalYearEnd": "2026-01-31",
+      "revenue": 215938000000,
+      "netIncome": 120067000000
+    },
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-01-31",
+      "revenue": 130497000000,
+      "netIncome": 72880000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-01-31",
+      "revenue": 60922000000,
+      "netIncome": 29760000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-01-31",
+      "revenue": 26974000000,
+      "netIncome": 4368000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2026,
+    "revenuePerSecond": 6847.35,
+    "profitPerSecond": 3807.3
+  }
+}

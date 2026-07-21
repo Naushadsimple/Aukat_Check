@@ -1,0 +1,38 @@
+{
+  "ticker": "KO",
+  "name": "The Coca-Cola Company",
+  "sector": "Consumer",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 47941000000,
+      "netIncome": 13107000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 47061000000,
+      "netIncome": 10631000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 45754000000,
+      "netIncome": 10714000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 43004000000,
+      "netIncome": 9542000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 1520.2,
+    "profitPerSecond": 415.62
+  }
+}

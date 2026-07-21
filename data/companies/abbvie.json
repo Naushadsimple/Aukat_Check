@@ -1,0 +1,38 @@
+{
+  "ticker": "ABBV",
+  "name": "AbbVie Inc.",
+  "sector": "Healthcare",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 61160000000,
+      "netIncome": 4226000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 56334000000,
+      "netIncome": 4278000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 54318000000,
+      "netIncome": 4863000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 58054000000,
+      "netIncome": 11836000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 1939.37,
+    "profitPerSecond": 134.01
+  }
+}

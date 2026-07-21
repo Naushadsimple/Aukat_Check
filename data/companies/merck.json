@@ -1,0 +1,38 @@
+{
+  "ticker": "MRK",
+  "name": "Merck & Co. Inc.",
+  "sector": "Healthcare",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 65011000000,
+      "netIncome": 18254000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 64168000000,
+      "netIncome": 17117000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 60115000000,
+      "netIncome": 365000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 59283000000,
+      "netIncome": 14519000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 2061.49,
+    "profitPerSecond": 578.83
+  }
+}

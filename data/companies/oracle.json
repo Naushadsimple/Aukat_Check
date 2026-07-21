@@ -1,0 +1,38 @@
+{
+  "ticker": "ORCL",
+  "name": "Oracle Corporation",
+  "sector": "Technology",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2026,
+      "fiscalYearEnd": "2026-05-31",
+      "revenue": 67357000000,
+      "netIncome": 17087000000
+    },
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-05-31",
+      "revenue": 57399000000,
+      "netIncome": 12443000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-05-31",
+      "revenue": 52961000000,
+      "netIncome": 10467000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-05-31",
+      "revenue": 49954000000,
+      "netIncome": 8503000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2026,
+    "revenuePerSecond": 2135.88,
+    "profitPerSecond": 541.83
+  }
+}

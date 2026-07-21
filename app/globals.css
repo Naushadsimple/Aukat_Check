@@ -1,0 +1,35 @@
+@import "tailwindcss";
+@import "@fontsource-variable/fraunces";
+
+:root {
+  --background: #FAFBFF;
+  --foreground: #0A0A0A;
+  --font-serif: "Fraunces Variable", Georgia, serif;
+  --font-sans: var(--font-geist-sans), system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), monospace;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(220, 238, 255, 0.4) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(234, 242, 255, 0.5) 0px, transparent 50%);
+  background-attachment: fixed;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Hide scrollbars for clean carousel / tab list */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

@@ -1,0 +1,38 @@
+{
+  "ticker": "ISRG",
+  "name": "Intuitive Surgical Inc.",
+  "sector": "Healthcare",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 10064700000,
+      "netIncome": 2856000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 8352100000,
+      "netIncome": 2322600000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 7124100000,
+      "netIncome": 1798000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 6222200000,
+      "netIncome": 1322300000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 319.15,
+    "profitPerSecond": 90.56
+  }
+}

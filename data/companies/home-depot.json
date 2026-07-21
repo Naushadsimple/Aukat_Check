@@ -1,0 +1,38 @@
+{
+  "ticker": "HD",
+  "name": "The Home Depot Inc.",
+  "sector": "Consumer",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2026,
+      "fiscalYearEnd": "2026-01-31",
+      "revenue": 164683000000,
+      "netIncome": 14156000000
+    },
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-01-31",
+      "revenue": 159514000000,
+      "netIncome": 14806000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-01-31",
+      "revenue": 152669000000,
+      "netIncome": 15143000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-01-31",
+      "revenue": 157403000000,
+      "netIncome": 17105000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2026,
+    "revenuePerSecond": 5222.06,
+    "profitPerSecond": 448.88
+  }
+}

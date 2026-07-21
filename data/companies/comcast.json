@@ -1,0 +1,38 @@
+{
+  "ticker": "CMCSA",
+  "name": "Comcast Corporation",
+  "sector": "Telecom",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 123707000000,
+      "netIncome": 19998000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 123731000000,
+      "netIncome": 16192000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 121572000000,
+      "netIncome": 15388000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 121427000000,
+      "netIncome": 5370000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 3922.72,
+    "profitPerSecond": 634.13
+  }
+}

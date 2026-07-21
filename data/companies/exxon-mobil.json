@@ -1,0 +1,38 @@
+{
+  "ticker": "XOM",
+  "name": "Exxon Mobil Corporation",
+  "sector": "Energy",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 323905000000,
+      "netIncome": 28844000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 339247000000,
+      "netIncome": 33680000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 334697000000,
+      "netIncome": 36010000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 398675000000,
+      "netIncome": 55740000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 10270.96,
+    "profitPerSecond": 914.64
+  }
+}

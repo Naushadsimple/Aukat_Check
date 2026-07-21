@@ -1,0 +1,38 @@
+{
+  "ticker": "RTX",
+  "name": "RTX Corporation",
+  "sector": "Industrial",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 88603000000,
+      "netIncome": 6732000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 80738000000,
+      "netIncome": 4774000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 68920000000,
+      "netIncome": 3195000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 67074000000,
+      "netIncome": 5197000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 2809.58,
+    "profitPerSecond": 213.47
+  }
+}

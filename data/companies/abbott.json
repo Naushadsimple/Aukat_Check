@@ -1,0 +1,38 @@
+{
+  "ticker": "ABT",
+  "name": "Abbott Laboratories",
+  "sector": "Healthcare",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 44328000000,
+      "netIncome": 6524000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 41950000000,
+      "netIncome": 13402000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 40109000000,
+      "netIncome": 5723000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 43653000000,
+      "netIncome": 6933000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 1405.63,
+    "profitPerSecond": 206.87
+  }
+}

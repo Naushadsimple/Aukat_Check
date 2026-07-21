@@ -1,0 +1,38 @@
+{
+  "ticker": "NEE",
+  "name": "NextEra Energy Inc.",
+  "sector": "Utilities",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 27412000000,
+      "netIncome": 6835000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 24753000000,
+      "netIncome": 6946000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 28114000000,
+      "netIncome": 7310000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 20956000000,
+      "netIncome": 4147000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 869.23,
+    "profitPerSecond": 216.74
+  }
+}

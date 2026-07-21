@@ -1,0 +1,38 @@
+{
+  "ticker": "BA",
+  "name": "The Boeing Company",
+  "sector": "Industrial",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-12-31",
+      "revenue": 89463000000,
+      "netIncome": 2235000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-12-31",
+      "revenue": 66517000000,
+      "netIncome": -11817000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-12-31",
+      "revenue": 77794000000,
+      "netIncome": -2222000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-12-31",
+      "revenue": 66608000000,
+      "netIncome": -4935000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 2836.85,
+    "profitPerSecond": 70.87
+  }
+}

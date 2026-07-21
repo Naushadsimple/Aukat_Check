@@ -1,0 +1,38 @@
+{
+  "ticker": "V",
+  "name": "Visa Inc.",
+  "sector": "Finance",
+  "currency": "USD",
+  "lastUpdated": "2026-07-17",
+  "yearlyData": [
+    {
+      "fiscalYear": 2025,
+      "fiscalYearEnd": "2025-09-30",
+      "revenue": 40000000000,
+      "netIncome": 20058000000
+    },
+    {
+      "fiscalYear": 2024,
+      "fiscalYearEnd": "2024-09-30",
+      "revenue": 35926000000,
+      "netIncome": 19743000000
+    },
+    {
+      "fiscalYear": 2023,
+      "fiscalYearEnd": "2023-09-30",
+      "revenue": 32653000000,
+      "netIncome": 17273000000
+    },
+    {
+      "fiscalYear": 2022,
+      "fiscalYearEnd": "2022-09-30",
+      "revenue": 29310000000,
+      "netIncome": 14957000000
+    }
+  ],
+  "latest": {
+    "fiscalYear": 2025,
+    "revenuePerSecond": 1268.39,
+    "profitPerSecond": 636.04
+  }
+}
