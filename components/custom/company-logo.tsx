@@ -22,11 +22,11 @@ export function CompanyLogo({ slug, ticker, name, className = 'w-full h-full obj
 
   const domain = info.domain;
 
-  // Local static SVG assets load INSTANTLY on first visit (0ms delay)
-  // External APIs are used as secondary fallbacks
+  // Primary sources are local FULL-COLOR HD PNG brand assets
+  // Secondary fallbacks use Clearbit & Google 128px HD Favicons
   const sources = [
-    `/logos/${slug}.svg`,
-    `/logos/${cleanTicker}.svg`,
+    `/logos/${slug}.png`,
+    `/logos/${cleanTicker}.png`,
     `https://logo.clearbit.com/${domain}`,
     `https://www.google.com/s2/favicons?domain=${domain}&sz=128`,
     `https://icons.duckduckgo.com/ip3/${domain}.ico`,

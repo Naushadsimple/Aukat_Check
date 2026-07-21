@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
-  <rect width="100" height="100" rx="22" fill="#1C100B"/>
-  <text x="50" y="58" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="38" fill="#F97316" text-anchor="middle">L</text>
-  <text x="50" y="80" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="10" fill="#FFFFFF" fill-opacity="0.8" text-anchor="middle" letter-spacing="1">LOW</text>
-</svg>
